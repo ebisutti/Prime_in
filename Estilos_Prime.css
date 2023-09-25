@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,200;0,9..40,400;0,9..40,600;0,9..40,900;1,9..40,300;1,9..40,600;1,9..40,900&family=Raleway:ital,wght@0,300;0,400;0,500;1,300;1,600;1,800&display=swap');
+
+.nav{
+    background-color:#1A98FF ;
+    align-items: center;
+
+}
+
+.nav-link{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.Icono_peq{
+    width: 55px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.body{
+    background-color: #0C0C0C;
+}
+
+.Icono_grande{
+    Width: 105px;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+    padding-right: 7px;
+}
+
+.menu_carousel{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.icono_car{
+    width: 70px;
+    padding-bottom: 12px;
+}
+
+.contenedor{
+    padding-right: 7px;
+    padding-right: 7px;
+    display: flex;
+    align-items: center;
+}
+
+.subtitulos{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+h1{ 
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    color: white;
+}
+
+.film{
+    width: 290px;
+    padding-left: 20px;
+}
+
+.tipo_car2{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.logo2{
+    width: 150px;
+}
+
+.foooter{
+    background-color: #1a98ff;
+}
+
+.c_foot{
+    background-color: #1a98ff;
+    display: flex;
+    padding-left: 400px;
+    padding-right: 400px;
+    justify-content: space-around;
+    align-items: center;
+}
